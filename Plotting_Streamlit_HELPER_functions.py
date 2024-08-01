@@ -15,9 +15,8 @@ import json
 import openrouteservice
 from openrouteservice import client as ors
 
-with open('credentials.json', 'r') as file:
-    data = json.load(file)
-openrouteservice_client = ors.Client(data['ors_key'])
+openrouteservice_client = ors.Client(st.secrets['ors_key'])
+
 # # for travel time to work, Public Transports:
 import requests
 ############################################################################################
