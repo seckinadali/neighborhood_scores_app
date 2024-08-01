@@ -1,0 +1,3148 @@
+{
+  "original_address": {
+    "address": "6319 Allenwinden, Winzr\u00fcti 39",
+    "coordinates": [
+      47.171282,
+      8.554959
+    ]
+  },
+  "facilities": {
+    "bars": {
+      "data": [],
+      "count": 0,
+      "average_rating": null
+    },
+    "restaurants": {
+      "data": [
+        {
+          "place_id": "ChIJ5SlvKXWrmkcRdJdDB_wiNsQ",
+          "name": "Gasthaus L\u00f6wen",
+          "rating": 4.5,
+          "num_ratings": 59,
+          "vicinity": "Dorfstrasse 35, Allenwinden",
+          "location": {
+            "lat": 47.1666685,
+            "lng": 8.553291300000001
+          },
+          "reviews": [
+            {
+              "author_name": "Nikos Karatzas",
+              "author_url": "https://www.google.com/maps/contrib/114872466881577259344/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcgJ2e3XJYpRM0JIuw5A0_PhJinxRzjtreVvDhsb62llj91Q=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "A very fine Gasthaus if one likes wild catch! Excellent cooking, friendly service, good wine selection! Strongly recommend if you are interested in Suisse cuisine!!",
+              "time": 1573769254,
+              "translated": false
+            },
+            {
+              "author_name": "Gerry Timoney",
+              "author_url": "https://www.google.com/maps/contrib/106934143077782268220/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXP-i8nNdHJu9VqzoQk_8kyRLntZXDk1mWpEV5BmbquLX5l6-C2=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 4,
+              "relative_time_description": "2 years ago",
+              "text": "Very nice open and friendly people.  We stopped in for a drink only but I would definitely go back for food",
+              "time": 1634067164,
+              "translated": false
+            },
+            {
+              "author_name": "S\u00f8ren Fog",
+              "author_url": "https://www.google.com/maps/contrib/101114860921250989086/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkQ3D99kYX2wQeUzaNtE9YuM3z6DHXrcF9khWPoIffMD8v4-v3=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "Wonderful friendly little spot",
+              "time": 1602242135,
+              "translated": false
+            },
+            {
+              "author_name": "J F",
+              "author_url": "https://www.google.com/maps/contrib/104590023628953737903/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7gm4x_EPGBDbKtugyPOpMPKA8AVY-R8FdkR5JUayKmv2P8-U9=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "6 years ago",
+              "text": "Delicious!",
+              "time": 1524908660,
+              "translated": false
+            },
+            {
+              "author_name": "A Z",
+              "author_url": "https://www.google.com/maps/contrib/111875396455942977509/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLvgFztZjl1ewAwNiszTxyga6iB888vjnfSddWrEAKcUJd-g=s128-c0x00000000-cc-rp-mo-ba6",
+              "rating": 5,
+              "relative_time_description": "5 years ago",
+              "text": "By far the best game in the region! Very friendly service and cozy atmosphere.",
+              "time": 1543636585,
+              "translated": true
+            }
+          ],
+          "num_reviews": 5,
+          "url": "https://maps.google.com/?cid=14138526546025224052",
+          "travel_time": "9 mins"
+        }
+      ],
+      "count": 1,
+      "average_rating": null,
+      "closest": {
+        "place_id": "ChIJ5SlvKXWrmkcRdJdDB_wiNsQ",
+        "name": "Gasthaus L\u00f6wen",
+        "rating": 4.5,
+        "num_ratings": 59,
+        "vicinity": "Dorfstrasse 35, Allenwinden",
+        "location": {
+          "lat": 47.1666685,
+          "lng": 8.553291300000001
+        },
+        "reviews": [
+          {
+            "author_name": "Nikos Karatzas",
+            "author_url": "https://www.google.com/maps/contrib/114872466881577259344/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcgJ2e3XJYpRM0JIuw5A0_PhJinxRzjtreVvDhsb62llj91Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "A very fine Gasthaus if one likes wild catch! Excellent cooking, friendly service, good wine selection! Strongly recommend if you are interested in Suisse cuisine!!",
+            "time": 1573769254,
+            "translated": false
+          },
+          {
+            "author_name": "Gerry Timoney",
+            "author_url": "https://www.google.com/maps/contrib/106934143077782268220/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXP-i8nNdHJu9VqzoQk_8kyRLntZXDk1mWpEV5BmbquLX5l6-C2=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Very nice open and friendly people.  We stopped in for a drink only but I would definitely go back for food",
+            "time": 1634067164,
+            "translated": false
+          },
+          {
+            "author_name": "S\u00f8ren Fog",
+            "author_url": "https://www.google.com/maps/contrib/101114860921250989086/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkQ3D99kYX2wQeUzaNtE9YuM3z6DHXrcF9khWPoIffMD8v4-v3=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Wonderful friendly little spot",
+            "time": 1602242135,
+            "translated": false
+          },
+          {
+            "author_name": "J F",
+            "author_url": "https://www.google.com/maps/contrib/104590023628953737903/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7gm4x_EPGBDbKtugyPOpMPKA8AVY-R8FdkR5JUayKmv2P8-U9=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Delicious!",
+            "time": 1524908660,
+            "translated": false
+          },
+          {
+            "author_name": "A Z",
+            "author_url": "https://www.google.com/maps/contrib/111875396455942977509/reviews",
+            "language": "en-US",
+            "original_language": "de",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLvgFztZjl1ewAwNiszTxyga6iB888vjnfSddWrEAKcUJd-g=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "By far the best game in the region! Very friendly service and cozy atmosphere.",
+            "time": 1543636585,
+            "translated": true
+          }
+        ],
+        "num_reviews": 5,
+        "url": "https://maps.google.com/?cid=14138526546025224052",
+        "travel_time": "9 mins"
+      }
+    },
+    "kindergarten": {
+      "data": [
+        {
+          "place_id": "ChIJYWbWW3WrmkcR2BkfX6lryZY",
+          "name": "Myself AG",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Eggried 22, Allenwinden",
+          "location": {
+            "lat": 47.1684968,
+            "lng": 8.554431599999997
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=10865333951197551064",
+          "travel_time": "5 mins"
+        },
+        {
+          "place_id": "ChIJB2QotgqrmkcRBrqUSWo4CHo",
+          "name": "Triag AG",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Aussergr\u00fctstrasse 2, Allenwinden",
+          "location": {
+            "lat": 47.1677532,
+            "lng": 8.5526912
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=8793340301593065990",
+          "travel_time": "7 mins"
+        },
+        {
+          "place_id": "ChIJqwtwWXWrmkcReZXSM7fNiyY",
+          "name": "Wasserversorgungs Genossenschaft Allenwinden",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Eggried 24, Allenwinden",
+          "location": {
+            "lat": 47.1684968,
+            "lng": 8.554431599999997
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=2777539781936190841",
+          "travel_time": "5 mins"
+        },
+        {
+          "place_id": "ChIJdQpq2nSrmkcRZSO_vGJQaFc",
+          "name": "Alois Arnold AG",
+          "rating": 5,
+          "num_ratings": 4,
+          "vicinity": "Dorfstrasse 31, Allenwinden",
+          "location": {
+            "lat": 47.1660537,
+            "lng": 8.5535528
+          },
+          "reviews": [
+            {
+              "author_name": "Peter Z\u00fcllig",
+              "author_url": "https://www.google.com/maps/contrib/114920545484454410295/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzY42HqRXdlqhhSGio2EQ8LeGRFNSJjOcMmtNpeg5wdSYe2joH=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Due to a fire in the house, we were dependent on immediate support. Everything was done and supported in a friendly, helpful and courteous manner. A company with \u2764\ufe0f.",
+              "time": 1684999000,
+              "translated": true
+            },
+            {
+              "author_name": "Mark Gr\u00fcring",
+              "author_url": "https://www.google.com/maps/contrib/102183789300166936084/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB93Nu3OkcTIBM6K8VDRLFRsrDl4CbChmFjnTlQiVeAW4sAHw=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "6 years ago",
+              "text": "Your personal builder, on time, competent and very efficient",
+              "time": 1512824969,
+              "translated": true
+            },
+            {
+              "author_name": "Pit- Betonpumpen",
+              "author_url": "https://www.google.com/maps/contrib/116504409680694247158/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInMO0bb4wwXOyMkteP9EF_OHcsHMMGwb97geQbleWNqmyIxgg=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "",
+              "time": 1592835024,
+              "translated": false
+            },
+            {
+              "author_name": "Andreas L\u00fc\u00f6nd",
+              "author_url": "https://www.google.com/maps/contrib/100171556144390009997/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLojOA4gbdGO3eryhWYZkqbI9YFH1YNYqR8y6RS-qxMBWTlPw=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "",
+              "time": 1615932268,
+              "translated": false
+            }
+          ],
+          "num_reviews": 4,
+          "url": "https://maps.google.com/?cid=6298372463881298789",
+          "travel_time": "10 mins"
+        },
+        {
+          "place_id": "ChIJbYSWtnaqmkcRA1kvtWOEsr8",
+          "name": "Landtwing Verlag GmbH",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Aussergr\u00fctstrasse 2, Allenwinden",
+          "location": {
+            "lat": 47.1677532,
+            "lng": 8.5526912
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=13813248570875140355",
+          "travel_time": "7 mins"
+        },
+        {
+          "place_id": "ChIJCeP-xQqrmkcRFNzlZH3sg1k",
+          "name": "partychuchi",
+          "rating": 5,
+          "num_ratings": 5,
+          "vicinity": "Aussergr\u00fctstrasse 7, Allenwinden",
+          "location": {
+            "lat": 47.167407,
+            "lng": 8.552266
+          },
+          "reviews": [
+            {
+              "author_name": "Andrea Hotz",
+              "author_url": "https://www.google.com/maps/contrib/104999654993129011994/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrESlJO7AL8_ruy6dPL3i_DM_cjzyFFSdyBg1_BIq85AKyvY0J=s128-c0x00000000-cc-rp-mo-ba6",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Simply fantastic...likeable...tasty...thank you Barbara",
+              "time": 1667690251,
+              "translated": true
+            },
+            {
+              "author_name": "Friedemann Umrath",
+              "author_url": "https://www.google.com/maps/contrib/117186797314878975589/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_0RUsj8hrEpHJVjR3YP6rgy_EsLmO-hWiO7xoyv_Iclp5SsbN=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "2 years ago",
+              "text": "Motivated team great job",
+              "time": 1653139341,
+              "translated": true
+            },
+            {
+              "author_name": "Thomas Huber",
+              "author_url": "https://www.google.com/maps/contrib/113876525944120355870/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9Ww1kGga3AqyELBRG_z34aPjTGKKbSAUTQe2JGXfpz1FWMg=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "Best catering in central Switzerland",
+              "time": 1583619087,
+              "translated": true
+            },
+            {
+              "author_name": "Mario Merz",
+              "author_url": "https://www.google.com/maps/contrib/116264636141018215575/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj8ZnwHUjXt9OB06QReKG3QNwSr5bWPRMfdJ4x6o-ih4QAQgs=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "Highly recommended!",
+              "time": 1582530970,
+              "translated": true
+            },
+            {
+              "author_name": "Roman Buergi",
+              "author_url": "https://www.google.com/maps/contrib/117912643187792847730/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgdk_edVQdo-0qndlIiCc3d2blEw0gU5zaiyeYdSgVP7oX_hsl=s128-c0x00000000-cc-rp-mo-ba3",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "",
+              "time": 1616760201,
+              "translated": false
+            }
+          ],
+          "num_reviews": 5,
+          "url": "https://maps.google.com/?cid=6450259114632535060",
+          "travel_time": "8 mins"
+        },
+        {
+          "place_id": "ChIJ1foc-Z-rmkcRuPLgDHaci5s",
+          "name": "Elektrizit\u00e4ts-Genossenschaft",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Winzr\u00fcti 1, Allenwinden",
+          "location": {
+            "lat": 47.1692979,
+            "lng": 8.553884199999999
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=11208224128477754040",
+          "travel_time": "4 mins"
+        },
+        {
+          "place_id": "ChIJk-BKLXWrmkcRyGVVj-_tXDI",
+          "name": "Speck Schreinerei",
+          "rating": 5,
+          "num_ratings": 3,
+          "vicinity": "Dorfstrasse 37, Allenwinden",
+          "location": {
+            "lat": 47.1669134,
+            "lng": 8.553216400000002
+          },
+          "reviews": [
+            {
+              "author_name": "Gaby St\u00fcssi",
+              "author_url": "https://www.google.com/maps/contrib/115571451151743309535/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpDeSUccSPwSqU5vj_Py7hOWF0s6nwm0TBKZ0KhogCsAZYfV0Vow=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "2 years ago",
+              "text": "Super Service",
+              "time": 1631804232,
+              "translated": true
+            },
+            {
+              "author_name": "Marco Reichmuth",
+              "author_url": "https://www.google.com/maps/contrib/101929044489156925560/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFIjYEdAIZ5LiWvLXBJUrEnAJU6hAkHg5l-paPUlWejB7d3F2H=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "6 months ago",
+              "text": "",
+              "time": 1704805960,
+              "translated": false
+            },
+            {
+              "author_name": "dani arnold",
+              "author_url": "https://www.google.com/maps/contrib/101641219490621345442/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKszJkEz5k-PALmgl1EMVPIMoOoTFsTHv-yhPKAylOTn2r_Mw=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "7 years ago",
+              "text": "",
+              "time": 1474833489,
+              "translated": false
+            }
+          ],
+          "num_reviews": 3,
+          "url": "https://maps.google.com/?cid=3629037012911482312",
+          "travel_time": "8 mins"
+        },
+        {
+          "place_id": "ChIJMxuDBAurmkcRW5sUhfBNSFU",
+          "name": "Tierschutzverein Zug",
+          "rating": 4.6,
+          "num_ratings": 59,
+          "vicinity": "Riedmatt, Allenwinden",
+          "location": {
+            "lat": 47.16631580000001,
+            "lng": 8.550430900000002
+          },
+          "reviews": [
+            {
+              "author_name": "veronica m",
+              "author_url": "https://www.google.com/maps/contrib/110919130410787697566/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvz4cpTl3OhHm41l9LDvElcS2BEjPhPLYg14y3GcpRkyd0Pg=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Extremely friendly and kind team.\nThe animals are treated very well and the entire place is kept extra clean. I worked here for work experience (as an intern / apprenticeship) for one week and will definitely return - loved working with everyone and the cats.",
+              "time": 1686345999,
+              "translated": false
+            },
+            {
+              "author_name": "Maya lena",
+              "author_url": "https://www.google.com/maps/contrib/101668124339798179731/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2pw7yH91XcbLYMgKaSsxg_4kBF-dxHYpFqq8TfU2fdZB49g=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "4 months ago",
+              "text": "very very competent and friendly staff!! the animals are treated really well here. Thank you so much for allowing us to adopt our treasure of gold from you\ud83d\udc97\ud83d\udc97",
+              "time": 1709047359,
+              "translated": true
+            },
+            {
+              "author_name": "Sonja Grossenbacher",
+              "author_url": "https://www.google.com/maps/contrib/104302494673741946144/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfDfk0wmrNPAk9gdzzzQ45bcT_y9ppDE5yCqVj0ZK2hIaeA3hw=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "5 months ago",
+              "text": "A big compliment to the team. I noticed that he was very friendly, competent and lovingly treated with the animals. Great, clean animal shelter, highly recommended.",
+              "time": 1707724610,
+              "translated": true
+            },
+            {
+              "author_name": "Max Power",
+              "author_url": "https://www.google.com/maps/contrib/117291845388512981982/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2IMNWUNhBrbMyjDoaBMMhlBo8yfUJpB4XXgFJ8qDkiOf0Hg=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "10 months ago",
+              "text": "Very professional and nice team, the animals are lovingly looked after, cared for and cared for, the adoption process is very good and, above all, honest. Great attention is paid to animal welfare. The animal shelter is super clean.",
+              "time": 1693518333,
+              "translated": true
+            },
+            {
+              "author_name": "M\u00fcller Niklaus",
+              "author_url": "https://www.google.com/maps/contrib/117057769727572905136/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUFgMOCRIlYE61tXs5k1jTjaluczso6-llnxCaauu9r1RI3g=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "Were just there and were able to visit the young cats. It was a very beautiful and impressive experience.\nI would have loved to take them all home with us, you can feel that the animals are doing very well there.\nThe employees also make an extremely friendly and qualified impression.\nWe therefore decided to adopt two from there as soon as the little ones were big enough.",
+              "time": 1598366261,
+              "translated": true
+            }
+          ],
+          "num_reviews": 5,
+          "url": "https://maps.google.com/?cid=6145247386967251803",
+          "travel_time": "10 mins"
+        },
+        {
+          "place_id": "ChIJYWbWW3WrmkcR2BkfX6lryZY",
+          "name": "Myself AG",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Eggried 22, Allenwinden",
+          "location": {
+            "lat": 47.1684968,
+            "lng": 8.554431599999997
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=10865333951197551064",
+          "travel_time": "5 mins"
+        },
+        {
+          "place_id": "ChIJB2QotgqrmkcRBrqUSWo4CHo",
+          "name": "Triag AG",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Aussergr\u00fctstrasse 2, Allenwinden",
+          "location": {
+            "lat": 47.1677532,
+            "lng": 8.5526912
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=8793340301593065990",
+          "travel_time": "7 mins"
+        },
+        {
+          "place_id": "ChIJqwtwWXWrmkcReZXSM7fNiyY",
+          "name": "Wasserversorgungs Genossenschaft Allenwinden",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Eggried 24, Allenwinden",
+          "location": {
+            "lat": 47.1684968,
+            "lng": 8.554431599999997
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=2777539781936190841",
+          "travel_time": "5 mins"
+        },
+        {
+          "place_id": "ChIJdQpq2nSrmkcRZSO_vGJQaFc",
+          "name": "Alois Arnold AG",
+          "rating": 5,
+          "num_ratings": 4,
+          "vicinity": "Dorfstrasse 31, Allenwinden",
+          "location": {
+            "lat": 47.1660537,
+            "lng": 8.5535528
+          },
+          "reviews": [
+            {
+              "author_name": "Peter Z\u00fcllig",
+              "author_url": "https://www.google.com/maps/contrib/114920545484454410295/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzY42HqRXdlqhhSGio2EQ8LeGRFNSJjOcMmtNpeg5wdSYe2joH=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Due to a fire in the house, we were dependent on immediate support. Everything was done and supported in a friendly, helpful and courteous manner. A company with \u2764\ufe0f.",
+              "time": 1684999000,
+              "translated": true
+            },
+            {
+              "author_name": "Mark Gr\u00fcring",
+              "author_url": "https://www.google.com/maps/contrib/102183789300166936084/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB93Nu3OkcTIBM6K8VDRLFRsrDl4CbChmFjnTlQiVeAW4sAHw=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "6 years ago",
+              "text": "Your personal builder, on time, competent and very efficient",
+              "time": 1512824969,
+              "translated": true
+            },
+            {
+              "author_name": "Pit- Betonpumpen",
+              "author_url": "https://www.google.com/maps/contrib/116504409680694247158/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInMO0bb4wwXOyMkteP9EF_OHcsHMMGwb97geQbleWNqmyIxgg=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "",
+              "time": 1592835024,
+              "translated": false
+            },
+            {
+              "author_name": "Andreas L\u00fc\u00f6nd",
+              "author_url": "https://www.google.com/maps/contrib/100171556144390009997/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLojOA4gbdGO3eryhWYZkqbI9YFH1YNYqR8y6RS-qxMBWTlPw=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "",
+              "time": 1615932268,
+              "translated": false
+            }
+          ],
+          "num_reviews": 4,
+          "url": "https://maps.google.com/?cid=6298372463881298789",
+          "travel_time": "10 mins"
+        },
+        {
+          "place_id": "ChIJbYSWtnaqmkcRA1kvtWOEsr8",
+          "name": "Landtwing Verlag GmbH",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Aussergr\u00fctstrasse 2, Allenwinden",
+          "location": {
+            "lat": 47.1677532,
+            "lng": 8.5526912
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=13813248570875140355",
+          "travel_time": "7 mins"
+        },
+        {
+          "place_id": "ChIJCeP-xQqrmkcRFNzlZH3sg1k",
+          "name": "partychuchi",
+          "rating": 5,
+          "num_ratings": 5,
+          "vicinity": "Aussergr\u00fctstrasse 7, Allenwinden",
+          "location": {
+            "lat": 47.167407,
+            "lng": 8.552266
+          },
+          "reviews": [
+            {
+              "author_name": "Andrea Hotz",
+              "author_url": "https://www.google.com/maps/contrib/104999654993129011994/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrESlJO7AL8_ruy6dPL3i_DM_cjzyFFSdyBg1_BIq85AKyvY0J=s128-c0x00000000-cc-rp-mo-ba6",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Simply fantastic...likeable...tasty...thank you Barbara",
+              "time": 1667690251,
+              "translated": true
+            },
+            {
+              "author_name": "Friedemann Umrath",
+              "author_url": "https://www.google.com/maps/contrib/117186797314878975589/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_0RUsj8hrEpHJVjR3YP6rgy_EsLmO-hWiO7xoyv_Iclp5SsbN=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "2 years ago",
+              "text": "Motivated team great job",
+              "time": 1653139341,
+              "translated": true
+            },
+            {
+              "author_name": "Thomas Huber",
+              "author_url": "https://www.google.com/maps/contrib/113876525944120355870/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9Ww1kGga3AqyELBRG_z34aPjTGKKbSAUTQe2JGXfpz1FWMg=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "Best catering in central Switzerland",
+              "time": 1583619087,
+              "translated": true
+            },
+            {
+              "author_name": "Mario Merz",
+              "author_url": "https://www.google.com/maps/contrib/116264636141018215575/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj8ZnwHUjXt9OB06QReKG3QNwSr5bWPRMfdJ4x6o-ih4QAQgs=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "Highly recommended!",
+              "time": 1582530970,
+              "translated": true
+            },
+            {
+              "author_name": "Roman Buergi",
+              "author_url": "https://www.google.com/maps/contrib/117912643187792847730/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgdk_edVQdo-0qndlIiCc3d2blEw0gU5zaiyeYdSgVP7oX_hsl=s128-c0x00000000-cc-rp-mo-ba3",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "",
+              "time": 1616760201,
+              "translated": false
+            }
+          ],
+          "num_reviews": 5,
+          "url": "https://maps.google.com/?cid=6450259114632535060",
+          "travel_time": "8 mins"
+        },
+        {
+          "place_id": "ChIJ1foc-Z-rmkcRuPLgDHaci5s",
+          "name": "Elektrizit\u00e4ts-Genossenschaft",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Winzr\u00fcti 1, Allenwinden",
+          "location": {
+            "lat": 47.1692979,
+            "lng": 8.553884199999999
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=11208224128477754040",
+          "travel_time": "4 mins"
+        },
+        {
+          "place_id": "ChIJk-BKLXWrmkcRyGVVj-_tXDI",
+          "name": "Speck Schreinerei",
+          "rating": 5,
+          "num_ratings": 3,
+          "vicinity": "Dorfstrasse 37, Allenwinden",
+          "location": {
+            "lat": 47.1669134,
+            "lng": 8.553216400000002
+          },
+          "reviews": [
+            {
+              "author_name": "Gaby St\u00fcssi",
+              "author_url": "https://www.google.com/maps/contrib/115571451151743309535/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpDeSUccSPwSqU5vj_Py7hOWF0s6nwm0TBKZ0KhogCsAZYfV0Vow=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "2 years ago",
+              "text": "Super Service",
+              "time": 1631804232,
+              "translated": true
+            },
+            {
+              "author_name": "Marco Reichmuth",
+              "author_url": "https://www.google.com/maps/contrib/101929044489156925560/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFIjYEdAIZ5LiWvLXBJUrEnAJU6hAkHg5l-paPUlWejB7d3F2H=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "6 months ago",
+              "text": "",
+              "time": 1704805960,
+              "translated": false
+            },
+            {
+              "author_name": "dani arnold",
+              "author_url": "https://www.google.com/maps/contrib/101641219490621345442/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKszJkEz5k-PALmgl1EMVPIMoOoTFsTHv-yhPKAylOTn2r_Mw=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "7 years ago",
+              "text": "",
+              "time": 1474833489,
+              "translated": false
+            }
+          ],
+          "num_reviews": 3,
+          "url": "https://maps.google.com/?cid=3629037012911482312",
+          "travel_time": "8 mins"
+        },
+        {
+          "place_id": "ChIJMxuDBAurmkcRW5sUhfBNSFU",
+          "name": "Tierschutzverein Zug",
+          "rating": 4.6,
+          "num_ratings": 59,
+          "vicinity": "Riedmatt, Allenwinden",
+          "location": {
+            "lat": 47.16631580000001,
+            "lng": 8.550430900000002
+          },
+          "reviews": [
+            {
+              "author_name": "veronica m",
+              "author_url": "https://www.google.com/maps/contrib/110919130410787697566/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvz4cpTl3OhHm41l9LDvElcS2BEjPhPLYg14y3GcpRkyd0Pg=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Extremely friendly and kind team.\nThe animals are treated very well and the entire place is kept extra clean. I worked here for work experience (as an intern / apprenticeship) for one week and will definitely return - loved working with everyone and the cats.",
+              "time": 1686345999,
+              "translated": false
+            },
+            {
+              "author_name": "Maya lena",
+              "author_url": "https://www.google.com/maps/contrib/101668124339798179731/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2pw7yH91XcbLYMgKaSsxg_4kBF-dxHYpFqq8TfU2fdZB49g=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "4 months ago",
+              "text": "very very competent and friendly staff!! the animals are treated really well here. Thank you so much for allowing us to adopt our treasure of gold from you\ud83d\udc97\ud83d\udc97",
+              "time": 1709047359,
+              "translated": true
+            },
+            {
+              "author_name": "Sonja Grossenbacher",
+              "author_url": "https://www.google.com/maps/contrib/104302494673741946144/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfDfk0wmrNPAk9gdzzzQ45bcT_y9ppDE5yCqVj0ZK2hIaeA3hw=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "5 months ago",
+              "text": "A big compliment to the team. I noticed that he was very friendly, competent and lovingly treated with the animals. Great, clean animal shelter, highly recommended.",
+              "time": 1707724610,
+              "translated": true
+            },
+            {
+              "author_name": "Max Power",
+              "author_url": "https://www.google.com/maps/contrib/117291845388512981982/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2IMNWUNhBrbMyjDoaBMMhlBo8yfUJpB4XXgFJ8qDkiOf0Hg=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "10 months ago",
+              "text": "Very professional and nice team, the animals are lovingly looked after, cared for and cared for, the adoption process is very good and, above all, honest. Great attention is paid to animal welfare. The animal shelter is super clean.",
+              "time": 1693518333,
+              "translated": true
+            },
+            {
+              "author_name": "M\u00fcller Niklaus",
+              "author_url": "https://www.google.com/maps/contrib/117057769727572905136/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUFgMOCRIlYE61tXs5k1jTjaluczso6-llnxCaauu9r1RI3g=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "Were just there and were able to visit the young cats. It was a very beautiful and impressive experience.\nI would have loved to take them all home with us, you can feel that the animals are doing very well there.\nThe employees also make an extremely friendly and qualified impression.\nWe therefore decided to adopt two from there as soon as the little ones were big enough.",
+              "time": 1598366261,
+              "translated": true
+            }
+          ],
+          "num_reviews": 5,
+          "url": "https://maps.google.com/?cid=6145247386967251803",
+          "travel_time": "10 mins"
+        }
+      ],
+      "count": 18,
+      "average_rating": 4.9,
+      "closest": {
+        "place_id": "ChIJ1foc-Z-rmkcRuPLgDHaci5s",
+        "name": "Elektrizit\u00e4ts-Genossenschaft",
+        "rating": "No rating available",
+        "num_ratings": "No ratings available",
+        "vicinity": "Winzr\u00fcti 1, Allenwinden",
+        "location": {
+          "lat": 47.1692979,
+          "lng": 8.553884199999999
+        },
+        "reviews": [],
+        "num_reviews": 0,
+        "url": "https://maps.google.com/?cid=11208224128477754040",
+        "travel_time": "4 mins"
+      }
+    },
+    "public_transportation": {
+      "data": [
+        {
+          "place_id": "ChIJYWbWW3WrmkcR2BkfX6lryZY",
+          "name": "Myself AG",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Eggried 22, Allenwinden",
+          "location": {
+            "lat": 47.1684968,
+            "lng": 8.554431599999997
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=10865333951197551064",
+          "travel_time": "5 mins"
+        },
+        {
+          "place_id": "ChIJB2QotgqrmkcRBrqUSWo4CHo",
+          "name": "Triag AG",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Aussergr\u00fctstrasse 2, Allenwinden",
+          "location": {
+            "lat": 47.1677532,
+            "lng": 8.5526912
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=8793340301593065990",
+          "travel_time": "7 mins"
+        },
+        {
+          "place_id": "ChIJqwtwWXWrmkcReZXSM7fNiyY",
+          "name": "Wasserversorgungs Genossenschaft Allenwinden",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Eggried 24, Allenwinden",
+          "location": {
+            "lat": 47.1684968,
+            "lng": 8.554431599999997
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=2777539781936190841",
+          "travel_time": "5 mins"
+        },
+        {
+          "place_id": "ChIJdQpq2nSrmkcRZSO_vGJQaFc",
+          "name": "Alois Arnold AG",
+          "rating": 5,
+          "num_ratings": 4,
+          "vicinity": "Dorfstrasse 31, Allenwinden",
+          "location": {
+            "lat": 47.1660537,
+            "lng": 8.5535528
+          },
+          "reviews": [
+            {
+              "author_name": "Peter Z\u00fcllig",
+              "author_url": "https://www.google.com/maps/contrib/114920545484454410295/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzY42HqRXdlqhhSGio2EQ8LeGRFNSJjOcMmtNpeg5wdSYe2joH=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Due to a fire in the house, we were dependent on immediate support. Everything was done and supported in a friendly, helpful and courteous manner. A company with \u2764\ufe0f.",
+              "time": 1684999000,
+              "translated": true
+            },
+            {
+              "author_name": "Mark Gr\u00fcring",
+              "author_url": "https://www.google.com/maps/contrib/102183789300166936084/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB93Nu3OkcTIBM6K8VDRLFRsrDl4CbChmFjnTlQiVeAW4sAHw=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "6 years ago",
+              "text": "Your personal builder, on time, competent and very efficient",
+              "time": 1512824969,
+              "translated": true
+            },
+            {
+              "author_name": "Pit- Betonpumpen",
+              "author_url": "https://www.google.com/maps/contrib/116504409680694247158/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInMO0bb4wwXOyMkteP9EF_OHcsHMMGwb97geQbleWNqmyIxgg=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "",
+              "time": 1592835024,
+              "translated": false
+            },
+            {
+              "author_name": "Andreas L\u00fc\u00f6nd",
+              "author_url": "https://www.google.com/maps/contrib/100171556144390009997/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLojOA4gbdGO3eryhWYZkqbI9YFH1YNYqR8y6RS-qxMBWTlPw=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "",
+              "time": 1615932268,
+              "translated": false
+            }
+          ],
+          "num_reviews": 4,
+          "url": "https://maps.google.com/?cid=6298372463881298789",
+          "travel_time": "10 mins"
+        },
+        {
+          "place_id": "ChIJbYSWtnaqmkcRA1kvtWOEsr8",
+          "name": "Landtwing Verlag GmbH",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Aussergr\u00fctstrasse 2, Allenwinden",
+          "location": {
+            "lat": 47.1677532,
+            "lng": 8.5526912
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=13813248570875140355",
+          "travel_time": "7 mins"
+        },
+        {
+          "place_id": "ChIJCeP-xQqrmkcRFNzlZH3sg1k",
+          "name": "partychuchi",
+          "rating": 5,
+          "num_ratings": 5,
+          "vicinity": "Aussergr\u00fctstrasse 7, Allenwinden",
+          "location": {
+            "lat": 47.167407,
+            "lng": 8.552266
+          },
+          "reviews": [
+            {
+              "author_name": "Andrea Hotz",
+              "author_url": "https://www.google.com/maps/contrib/104999654993129011994/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrESlJO7AL8_ruy6dPL3i_DM_cjzyFFSdyBg1_BIq85AKyvY0J=s128-c0x00000000-cc-rp-mo-ba6",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Simply fantastic...likeable...tasty...thank you Barbara",
+              "time": 1667690251,
+              "translated": true
+            },
+            {
+              "author_name": "Friedemann Umrath",
+              "author_url": "https://www.google.com/maps/contrib/117186797314878975589/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_0RUsj8hrEpHJVjR3YP6rgy_EsLmO-hWiO7xoyv_Iclp5SsbN=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "2 years ago",
+              "text": "Motivated team great job",
+              "time": 1653139341,
+              "translated": true
+            },
+            {
+              "author_name": "Thomas Huber",
+              "author_url": "https://www.google.com/maps/contrib/113876525944120355870/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9Ww1kGga3AqyELBRG_z34aPjTGKKbSAUTQe2JGXfpz1FWMg=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "Best catering in central Switzerland",
+              "time": 1583619087,
+              "translated": true
+            },
+            {
+              "author_name": "Mario Merz",
+              "author_url": "https://www.google.com/maps/contrib/116264636141018215575/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj8ZnwHUjXt9OB06QReKG3QNwSr5bWPRMfdJ4x6o-ih4QAQgs=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "Highly recommended!",
+              "time": 1582530970,
+              "translated": true
+            },
+            {
+              "author_name": "Roman Buergi",
+              "author_url": "https://www.google.com/maps/contrib/117912643187792847730/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgdk_edVQdo-0qndlIiCc3d2blEw0gU5zaiyeYdSgVP7oX_hsl=s128-c0x00000000-cc-rp-mo-ba3",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "",
+              "time": 1616760201,
+              "translated": false
+            }
+          ],
+          "num_reviews": 5,
+          "url": "https://maps.google.com/?cid=6450259114632535060",
+          "travel_time": "8 mins"
+        },
+        {
+          "place_id": "ChIJ1foc-Z-rmkcRuPLgDHaci5s",
+          "name": "Elektrizit\u00e4ts-Genossenschaft",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Winzr\u00fcti 1, Allenwinden",
+          "location": {
+            "lat": 47.1692979,
+            "lng": 8.553884199999999
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=11208224128477754040",
+          "travel_time": "4 mins"
+        },
+        {
+          "place_id": "ChIJk-BKLXWrmkcRyGVVj-_tXDI",
+          "name": "Speck Schreinerei",
+          "rating": 5,
+          "num_ratings": 3,
+          "vicinity": "Dorfstrasse 37, Allenwinden",
+          "location": {
+            "lat": 47.1669134,
+            "lng": 8.553216400000002
+          },
+          "reviews": [
+            {
+              "author_name": "Gaby St\u00fcssi",
+              "author_url": "https://www.google.com/maps/contrib/115571451151743309535/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpDeSUccSPwSqU5vj_Py7hOWF0s6nwm0TBKZ0KhogCsAZYfV0Vow=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "2 years ago",
+              "text": "Super Service",
+              "time": 1631804232,
+              "translated": true
+            },
+            {
+              "author_name": "Marco Reichmuth",
+              "author_url": "https://www.google.com/maps/contrib/101929044489156925560/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFIjYEdAIZ5LiWvLXBJUrEnAJU6hAkHg5l-paPUlWejB7d3F2H=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "6 months ago",
+              "text": "",
+              "time": 1704805960,
+              "translated": false
+            },
+            {
+              "author_name": "dani arnold",
+              "author_url": "https://www.google.com/maps/contrib/101641219490621345442/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKszJkEz5k-PALmgl1EMVPIMoOoTFsTHv-yhPKAylOTn2r_Mw=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "7 years ago",
+              "text": "",
+              "time": 1474833489,
+              "translated": false
+            }
+          ],
+          "num_reviews": 3,
+          "url": "https://maps.google.com/?cid=3629037012911482312",
+          "travel_time": "8 mins"
+        },
+        {
+          "place_id": "ChIJMxuDBAurmkcRW5sUhfBNSFU",
+          "name": "Tierschutzverein Zug",
+          "rating": 4.6,
+          "num_ratings": 59,
+          "vicinity": "Riedmatt, Allenwinden",
+          "location": {
+            "lat": 47.16631580000001,
+            "lng": 8.550430900000002
+          },
+          "reviews": [
+            {
+              "author_name": "veronica m",
+              "author_url": "https://www.google.com/maps/contrib/110919130410787697566/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvz4cpTl3OhHm41l9LDvElcS2BEjPhPLYg14y3GcpRkyd0Pg=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Extremely friendly and kind team.\nThe animals are treated very well and the entire place is kept extra clean. I worked here for work experience (as an intern / apprenticeship) for one week and will definitely return - loved working with everyone and the cats.",
+              "time": 1686345999,
+              "translated": false
+            },
+            {
+              "author_name": "Maya lena",
+              "author_url": "https://www.google.com/maps/contrib/101668124339798179731/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2pw7yH91XcbLYMgKaSsxg_4kBF-dxHYpFqq8TfU2fdZB49g=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "4 months ago",
+              "text": "very very competent and friendly staff!! the animals are treated really well here. Thank you so much for allowing us to adopt our treasure of gold from you\ud83d\udc97\ud83d\udc97",
+              "time": 1709047359,
+              "translated": true
+            },
+            {
+              "author_name": "Sonja Grossenbacher",
+              "author_url": "https://www.google.com/maps/contrib/104302494673741946144/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfDfk0wmrNPAk9gdzzzQ45bcT_y9ppDE5yCqVj0ZK2hIaeA3hw=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "5 months ago",
+              "text": "A big compliment to the team. I noticed that he was very friendly, competent and lovingly treated with the animals. Great, clean animal shelter, highly recommended.",
+              "time": 1707724610,
+              "translated": true
+            },
+            {
+              "author_name": "Max Power",
+              "author_url": "https://www.google.com/maps/contrib/117291845388512981982/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2IMNWUNhBrbMyjDoaBMMhlBo8yfUJpB4XXgFJ8qDkiOf0Hg=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "10 months ago",
+              "text": "Very professional and nice team, the animals are lovingly looked after, cared for and cared for, the adoption process is very good and, above all, honest. Great attention is paid to animal welfare. The animal shelter is super clean.",
+              "time": 1693518333,
+              "translated": true
+            },
+            {
+              "author_name": "M\u00fcller Niklaus",
+              "author_url": "https://www.google.com/maps/contrib/117057769727572905136/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUFgMOCRIlYE61tXs5k1jTjaluczso6-llnxCaauu9r1RI3g=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "Were just there and were able to visit the young cats. It was a very beautiful and impressive experience.\nI would have loved to take them all home with us, you can feel that the animals are doing very well there.\nThe employees also make an extremely friendly and qualified impression.\nWe therefore decided to adopt two from there as soon as the little ones were big enough.",
+              "time": 1598366261,
+              "translated": true
+            }
+          ],
+          "num_reviews": 5,
+          "url": "https://maps.google.com/?cid=6145247386967251803",
+          "travel_time": "10 mins"
+        },
+        {
+          "place_id": "ChIJgx-PHKCrmkcRrQ8n_nFMHw8",
+          "name": "Allenwinden, Egg",
+          "rating": 5,
+          "num_ratings": 1,
+          "vicinity": "Switzerland",
+          "location": {
+            "lat": 47.169647,
+            "lng": 8.553435
+          },
+          "reviews": [
+            {
+              "author_name": "Tricia Saraiva",
+              "author_url": "https://www.google.com/maps/contrib/108134823691275962814/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCnhjS1YYRlqQvu7xcJ6aBSzRXuXgS8Q9xyWhxiWOZaTgFSyK6=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "",
+              "time": 1681575178,
+              "translated": false
+            }
+          ],
+          "num_reviews": 1,
+          "url": "https://maps.google.com/?cid=1089673687325937581",
+          "travel_time": "6 mins"
+        },
+        {
+          "place_id": "ChIJma3uqgqrmkcRd88DziKUFG4",
+          "name": "Allenwinden, Egg",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Switzerland",
+          "location": {
+            "lat": 47.16882,
+            "lng": 8.553418
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=7932127720912441207",
+          "travel_time": "5 mins"
+        },
+        {
+          "place_id": "ChIJH8mULnWrmkcROScu-3jGRaA",
+          "name": "Allenwinden, Gr\u00fct",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Switzerland",
+          "location": {
+            "lat": 47.16686000000001,
+            "lng": 8.553416
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=11548855042373986105",
+          "travel_time": "8 mins"
+        },
+        {
+          "place_id": "ChIJi1ZgKHWrmkcRCrN5SZVhDYA",
+          "name": "Allenwinden, Gr\u00fct",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Switzerland",
+          "location": {
+            "lat": 47.166737,
+            "lng": 8.553474999999997
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=9227138505362748170",
+          "travel_time": "9 mins"
+        },
+        {
+          "place_id": "ChIJ3ZDHKHWrmkcRqEtlxicLomk",
+          "name": "Allenwinden, Gr\u00fct",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Switzerland",
+          "location": {
+            "lat": 47.166714,
+            "lng": 8.553559
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=7611658585669716904",
+          "travel_time": "9 mins"
+        }
+      ],
+      "count": 14,
+      "average_rating": 4.92,
+      "closest": {
+        "place_id": "ChIJ1foc-Z-rmkcRuPLgDHaci5s",
+        "name": "Elektrizit\u00e4ts-Genossenschaft",
+        "rating": "No rating available",
+        "num_ratings": "No ratings available",
+        "vicinity": "Winzr\u00fcti 1, Allenwinden",
+        "location": {
+          "lat": 47.1692979,
+          "lng": 8.553884199999999
+        },
+        "reviews": [],
+        "num_reviews": 0,
+        "url": "https://maps.google.com/?cid=11208224128477754040",
+        "travel_time": "4 mins"
+      }
+    },
+    "gym_fitness": {
+      "data": [
+        {
+          "place_id": "ChIJYWbWW3WrmkcR2BkfX6lryZY",
+          "name": "Myself AG",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Eggried 22, Allenwinden",
+          "location": {
+            "lat": 47.1684968,
+            "lng": 8.554431599999997
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=10865333951197551064",
+          "travel_time": "5 mins"
+        },
+        {
+          "place_id": "ChIJB2QotgqrmkcRBrqUSWo4CHo",
+          "name": "Triag AG",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Aussergr\u00fctstrasse 2, Allenwinden",
+          "location": {
+            "lat": 47.1677532,
+            "lng": 8.5526912
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=8793340301593065990",
+          "travel_time": "7 mins"
+        },
+        {
+          "place_id": "ChIJqwtwWXWrmkcReZXSM7fNiyY",
+          "name": "Wasserversorgungs Genossenschaft Allenwinden",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Eggried 24, Allenwinden",
+          "location": {
+            "lat": 47.1684968,
+            "lng": 8.554431599999997
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=2777539781936190841",
+          "travel_time": "5 mins"
+        },
+        {
+          "place_id": "ChIJdQpq2nSrmkcRZSO_vGJQaFc",
+          "name": "Alois Arnold AG",
+          "rating": 5,
+          "num_ratings": 4,
+          "vicinity": "Dorfstrasse 31, Allenwinden",
+          "location": {
+            "lat": 47.1660537,
+            "lng": 8.5535528
+          },
+          "reviews": [
+            {
+              "author_name": "Peter Z\u00fcllig",
+              "author_url": "https://www.google.com/maps/contrib/114920545484454410295/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzY42HqRXdlqhhSGio2EQ8LeGRFNSJjOcMmtNpeg5wdSYe2joH=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Due to a fire in the house, we were dependent on immediate support. Everything was done and supported in a friendly, helpful and courteous manner. A company with \u2764\ufe0f.",
+              "time": 1684999000,
+              "translated": true
+            },
+            {
+              "author_name": "Mark Gr\u00fcring",
+              "author_url": "https://www.google.com/maps/contrib/102183789300166936084/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB93Nu3OkcTIBM6K8VDRLFRsrDl4CbChmFjnTlQiVeAW4sAHw=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "6 years ago",
+              "text": "Your personal builder, on time, competent and very efficient",
+              "time": 1512824969,
+              "translated": true
+            },
+            {
+              "author_name": "Pit- Betonpumpen",
+              "author_url": "https://www.google.com/maps/contrib/116504409680694247158/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInMO0bb4wwXOyMkteP9EF_OHcsHMMGwb97geQbleWNqmyIxgg=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "",
+              "time": 1592835024,
+              "translated": false
+            },
+            {
+              "author_name": "Andreas L\u00fc\u00f6nd",
+              "author_url": "https://www.google.com/maps/contrib/100171556144390009997/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLojOA4gbdGO3eryhWYZkqbI9YFH1YNYqR8y6RS-qxMBWTlPw=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "",
+              "time": 1615932268,
+              "translated": false
+            }
+          ],
+          "num_reviews": 4,
+          "url": "https://maps.google.com/?cid=6298372463881298789",
+          "travel_time": "10 mins"
+        },
+        {
+          "place_id": "ChIJbYSWtnaqmkcRA1kvtWOEsr8",
+          "name": "Landtwing Verlag GmbH",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Aussergr\u00fctstrasse 2, Allenwinden",
+          "location": {
+            "lat": 47.1677532,
+            "lng": 8.5526912
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=13813248570875140355",
+          "travel_time": "7 mins"
+        },
+        {
+          "place_id": "ChIJCeP-xQqrmkcRFNzlZH3sg1k",
+          "name": "partychuchi",
+          "rating": 5,
+          "num_ratings": 5,
+          "vicinity": "Aussergr\u00fctstrasse 7, Allenwinden",
+          "location": {
+            "lat": 47.167407,
+            "lng": 8.552266
+          },
+          "reviews": [
+            {
+              "author_name": "Andrea Hotz",
+              "author_url": "https://www.google.com/maps/contrib/104999654993129011994/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrESlJO7AL8_ruy6dPL3i_DM_cjzyFFSdyBg1_BIq85AKyvY0J=s128-c0x00000000-cc-rp-mo-ba6",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Simply fantastic...likeable...tasty...thank you Barbara",
+              "time": 1667690251,
+              "translated": true
+            },
+            {
+              "author_name": "Friedemann Umrath",
+              "author_url": "https://www.google.com/maps/contrib/117186797314878975589/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_0RUsj8hrEpHJVjR3YP6rgy_EsLmO-hWiO7xoyv_Iclp5SsbN=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "2 years ago",
+              "text": "Motivated team great job",
+              "time": 1653139341,
+              "translated": true
+            },
+            {
+              "author_name": "Thomas Huber",
+              "author_url": "https://www.google.com/maps/contrib/113876525944120355870/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9Ww1kGga3AqyELBRG_z34aPjTGKKbSAUTQe2JGXfpz1FWMg=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "Best catering in central Switzerland",
+              "time": 1583619087,
+              "translated": true
+            },
+            {
+              "author_name": "Mario Merz",
+              "author_url": "https://www.google.com/maps/contrib/116264636141018215575/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj8ZnwHUjXt9OB06QReKG3QNwSr5bWPRMfdJ4x6o-ih4QAQgs=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "Highly recommended!",
+              "time": 1582530970,
+              "translated": true
+            },
+            {
+              "author_name": "Roman Buergi",
+              "author_url": "https://www.google.com/maps/contrib/117912643187792847730/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgdk_edVQdo-0qndlIiCc3d2blEw0gU5zaiyeYdSgVP7oX_hsl=s128-c0x00000000-cc-rp-mo-ba3",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "",
+              "time": 1616760201,
+              "translated": false
+            }
+          ],
+          "num_reviews": 5,
+          "url": "https://maps.google.com/?cid=6450259114632535060",
+          "travel_time": "8 mins"
+        },
+        {
+          "place_id": "ChIJ1foc-Z-rmkcRuPLgDHaci5s",
+          "name": "Elektrizit\u00e4ts-Genossenschaft",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Winzr\u00fcti 1, Allenwinden",
+          "location": {
+            "lat": 47.1692979,
+            "lng": 8.553884199999999
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=11208224128477754040",
+          "travel_time": "4 mins"
+        },
+        {
+          "place_id": "ChIJk-BKLXWrmkcRyGVVj-_tXDI",
+          "name": "Speck Schreinerei",
+          "rating": 5,
+          "num_ratings": 3,
+          "vicinity": "Dorfstrasse 37, Allenwinden",
+          "location": {
+            "lat": 47.1669134,
+            "lng": 8.553216400000002
+          },
+          "reviews": [
+            {
+              "author_name": "Gaby St\u00fcssi",
+              "author_url": "https://www.google.com/maps/contrib/115571451151743309535/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpDeSUccSPwSqU5vj_Py7hOWF0s6nwm0TBKZ0KhogCsAZYfV0Vow=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "2 years ago",
+              "text": "Super Service",
+              "time": 1631804232,
+              "translated": true
+            },
+            {
+              "author_name": "Marco Reichmuth",
+              "author_url": "https://www.google.com/maps/contrib/101929044489156925560/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFIjYEdAIZ5LiWvLXBJUrEnAJU6hAkHg5l-paPUlWejB7d3F2H=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "6 months ago",
+              "text": "",
+              "time": 1704805960,
+              "translated": false
+            },
+            {
+              "author_name": "dani arnold",
+              "author_url": "https://www.google.com/maps/contrib/101641219490621345442/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKszJkEz5k-PALmgl1EMVPIMoOoTFsTHv-yhPKAylOTn2r_Mw=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "7 years ago",
+              "text": "",
+              "time": 1474833489,
+              "translated": false
+            }
+          ],
+          "num_reviews": 3,
+          "url": "https://maps.google.com/?cid=3629037012911482312",
+          "travel_time": "8 mins"
+        },
+        {
+          "place_id": "ChIJMxuDBAurmkcRW5sUhfBNSFU",
+          "name": "Tierschutzverein Zug",
+          "rating": 4.6,
+          "num_ratings": 59,
+          "vicinity": "Riedmatt, Allenwinden",
+          "location": {
+            "lat": 47.16631580000001,
+            "lng": 8.550430900000002
+          },
+          "reviews": [
+            {
+              "author_name": "veronica m",
+              "author_url": "https://www.google.com/maps/contrib/110919130410787697566/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvz4cpTl3OhHm41l9LDvElcS2BEjPhPLYg14y3GcpRkyd0Pg=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Extremely friendly and kind team.\nThe animals are treated very well and the entire place is kept extra clean. I worked here for work experience (as an intern / apprenticeship) for one week and will definitely return - loved working with everyone and the cats.",
+              "time": 1686345999,
+              "translated": false
+            },
+            {
+              "author_name": "Maya lena",
+              "author_url": "https://www.google.com/maps/contrib/101668124339798179731/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2pw7yH91XcbLYMgKaSsxg_4kBF-dxHYpFqq8TfU2fdZB49g=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "4 months ago",
+              "text": "very very competent and friendly staff!! the animals are treated really well here. Thank you so much for allowing us to adopt our treasure of gold from you\ud83d\udc97\ud83d\udc97",
+              "time": 1709047359,
+              "translated": true
+            },
+            {
+              "author_name": "Sonja Grossenbacher",
+              "author_url": "https://www.google.com/maps/contrib/104302494673741946144/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfDfk0wmrNPAk9gdzzzQ45bcT_y9ppDE5yCqVj0ZK2hIaeA3hw=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "5 months ago",
+              "text": "A big compliment to the team. I noticed that he was very friendly, competent and lovingly treated with the animals. Great, clean animal shelter, highly recommended.",
+              "time": 1707724610,
+              "translated": true
+            },
+            {
+              "author_name": "Max Power",
+              "author_url": "https://www.google.com/maps/contrib/117291845388512981982/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2IMNWUNhBrbMyjDoaBMMhlBo8yfUJpB4XXgFJ8qDkiOf0Hg=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "10 months ago",
+              "text": "Very professional and nice team, the animals are lovingly looked after, cared for and cared for, the adoption process is very good and, above all, honest. Great attention is paid to animal welfare. The animal shelter is super clean.",
+              "time": 1693518333,
+              "translated": true
+            },
+            {
+              "author_name": "M\u00fcller Niklaus",
+              "author_url": "https://www.google.com/maps/contrib/117057769727572905136/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUFgMOCRIlYE61tXs5k1jTjaluczso6-llnxCaauu9r1RI3g=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "Were just there and were able to visit the young cats. It was a very beautiful and impressive experience.\nI would have loved to take them all home with us, you can feel that the animals are doing very well there.\nThe employees also make an extremely friendly and qualified impression.\nWe therefore decided to adopt two from there as soon as the little ones were big enough.",
+              "time": 1598366261,
+              "translated": true
+            }
+          ],
+          "num_reviews": 5,
+          "url": "https://maps.google.com/?cid=6145247386967251803",
+          "travel_time": "10 mins"
+        }
+      ],
+      "count": 9,
+      "average_rating": 4.9,
+      "closest": {
+        "place_id": "ChIJ1foc-Z-rmkcRuPLgDHaci5s",
+        "name": "Elektrizit\u00e4ts-Genossenschaft",
+        "rating": "No rating available",
+        "num_ratings": "No ratings available",
+        "vicinity": "Winzr\u00fcti 1, Allenwinden",
+        "location": {
+          "lat": 47.1692979,
+          "lng": 8.553884199999999
+        },
+        "reviews": [],
+        "num_reviews": 0,
+        "url": "https://maps.google.com/?cid=11208224128477754040",
+        "travel_time": "4 mins"
+      }
+    },
+    "grocery_stores_supermarkets": {
+      "data": [
+        {
+          "place_id": "ChIJYWbWW3WrmkcR2BkfX6lryZY",
+          "name": "Myself AG",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Eggried 22, Allenwinden",
+          "location": {
+            "lat": 47.1684968,
+            "lng": 8.554431599999997
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=10865333951197551064",
+          "travel_time": "5 mins"
+        },
+        {
+          "place_id": "ChIJB2QotgqrmkcRBrqUSWo4CHo",
+          "name": "Triag AG",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Aussergr\u00fctstrasse 2, Allenwinden",
+          "location": {
+            "lat": 47.1677532,
+            "lng": 8.5526912
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=8793340301593065990",
+          "travel_time": "7 mins"
+        },
+        {
+          "place_id": "ChIJqwtwWXWrmkcReZXSM7fNiyY",
+          "name": "Wasserversorgungs Genossenschaft Allenwinden",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Eggried 24, Allenwinden",
+          "location": {
+            "lat": 47.1684968,
+            "lng": 8.554431599999997
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=2777539781936190841",
+          "travel_time": "5 mins"
+        },
+        {
+          "place_id": "ChIJdQpq2nSrmkcRZSO_vGJQaFc",
+          "name": "Alois Arnold AG",
+          "rating": 5,
+          "num_ratings": 4,
+          "vicinity": "Dorfstrasse 31, Allenwinden",
+          "location": {
+            "lat": 47.1660537,
+            "lng": 8.5535528
+          },
+          "reviews": [
+            {
+              "author_name": "Peter Z\u00fcllig",
+              "author_url": "https://www.google.com/maps/contrib/114920545484454410295/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzY42HqRXdlqhhSGio2EQ8LeGRFNSJjOcMmtNpeg5wdSYe2joH=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Due to a fire in the house, we were dependent on immediate support. Everything was done and supported in a friendly, helpful and courteous manner. A company with \u2764\ufe0f.",
+              "time": 1684999000,
+              "translated": true
+            },
+            {
+              "author_name": "Mark Gr\u00fcring",
+              "author_url": "https://www.google.com/maps/contrib/102183789300166936084/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB93Nu3OkcTIBM6K8VDRLFRsrDl4CbChmFjnTlQiVeAW4sAHw=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "6 years ago",
+              "text": "Your personal builder, on time, competent and very efficient",
+              "time": 1512824969,
+              "translated": true
+            },
+            {
+              "author_name": "Andreas L\u00fc\u00f6nd",
+              "author_url": "https://www.google.com/maps/contrib/100171556144390009997/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLojOA4gbdGO3eryhWYZkqbI9YFH1YNYqR8y6RS-qxMBWTlPw=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "",
+              "time": 1615932268,
+              "translated": false
+            },
+            {
+              "author_name": "Pit- Betonpumpen",
+              "author_url": "https://www.google.com/maps/contrib/116504409680694247158/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInMO0bb4wwXOyMkteP9EF_OHcsHMMGwb97geQbleWNqmyIxgg=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "",
+              "time": 1592835024,
+              "translated": false
+            }
+          ],
+          "num_reviews": 4,
+          "url": "https://maps.google.com/?cid=6298372463881298789",
+          "travel_time": "10 mins"
+        },
+        {
+          "place_id": "ChIJbYSWtnaqmkcRA1kvtWOEsr8",
+          "name": "Landtwing Verlag GmbH",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Aussergr\u00fctstrasse 2, Allenwinden",
+          "location": {
+            "lat": 47.1677532,
+            "lng": 8.5526912
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=13813248570875140355",
+          "travel_time": "7 mins"
+        },
+        {
+          "place_id": "ChIJCeP-xQqrmkcRFNzlZH3sg1k",
+          "name": "partychuchi",
+          "rating": 5,
+          "num_ratings": 5,
+          "vicinity": "Aussergr\u00fctstrasse 7, Allenwinden",
+          "location": {
+            "lat": 47.167407,
+            "lng": 8.552266
+          },
+          "reviews": [
+            {
+              "author_name": "Andrea Hotz",
+              "author_url": "https://www.google.com/maps/contrib/104999654993129011994/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrESlJO7AL8_ruy6dPL3i_DM_cjzyFFSdyBg1_BIq85AKyvY0J=s128-c0x00000000-cc-rp-mo-ba6",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Simply fantastic...likeable...tasty...thank you Barbara",
+              "time": 1667690251,
+              "translated": true
+            },
+            {
+              "author_name": "Friedemann Umrath",
+              "author_url": "https://www.google.com/maps/contrib/117186797314878975589/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_0RUsj8hrEpHJVjR3YP6rgy_EsLmO-hWiO7xoyv_Iclp5SsbN=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "2 years ago",
+              "text": "Motivated team great job",
+              "time": 1653139341,
+              "translated": true
+            },
+            {
+              "author_name": "Thomas Huber",
+              "author_url": "https://www.google.com/maps/contrib/113876525944120355870/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9Ww1kGga3AqyELBRG_z34aPjTGKKbSAUTQe2JGXfpz1FWMg=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "Best catering in central Switzerland",
+              "time": 1583619087,
+              "translated": true
+            },
+            {
+              "author_name": "Mario Merz",
+              "author_url": "https://www.google.com/maps/contrib/116264636141018215575/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj8ZnwHUjXt9OB06QReKG3QNwSr5bWPRMfdJ4x6o-ih4QAQgs=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "Highly recommended!",
+              "time": 1582530970,
+              "translated": true
+            },
+            {
+              "author_name": "Roman Buergi",
+              "author_url": "https://www.google.com/maps/contrib/117912643187792847730/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgdk_edVQdo-0qndlIiCc3d2blEw0gU5zaiyeYdSgVP7oX_hsl=s128-c0x00000000-cc-rp-mo-ba3",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "",
+              "time": 1616760201,
+              "translated": false
+            }
+          ],
+          "num_reviews": 5,
+          "url": "https://maps.google.com/?cid=6450259114632535060",
+          "travel_time": "8 mins"
+        },
+        {
+          "place_id": "ChIJ1foc-Z-rmkcRuPLgDHaci5s",
+          "name": "Elektrizit\u00e4ts-Genossenschaft",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Winzr\u00fcti 1, Allenwinden",
+          "location": {
+            "lat": 47.1692979,
+            "lng": 8.553884199999999
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=11208224128477754040",
+          "travel_time": "4 mins"
+        },
+        {
+          "place_id": "ChIJk-BKLXWrmkcRyGVVj-_tXDI",
+          "name": "Speck Schreinerei",
+          "rating": 5,
+          "num_ratings": 3,
+          "vicinity": "Dorfstrasse 37, Allenwinden",
+          "location": {
+            "lat": 47.1669134,
+            "lng": 8.553216400000002
+          },
+          "reviews": [
+            {
+              "author_name": "Gaby St\u00fcssi",
+              "author_url": "https://www.google.com/maps/contrib/115571451151743309535/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpDeSUccSPwSqU5vj_Py7hOWF0s6nwm0TBKZ0KhogCsAZYfV0Vow=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "2 years ago",
+              "text": "Super Service",
+              "time": 1631804232,
+              "translated": true
+            },
+            {
+              "author_name": "Marco Reichmuth",
+              "author_url": "https://www.google.com/maps/contrib/101929044489156925560/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFIjYEdAIZ5LiWvLXBJUrEnAJU6hAkHg5l-paPUlWejB7d3F2H=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "6 months ago",
+              "text": "",
+              "time": 1704805960,
+              "translated": false
+            },
+            {
+              "author_name": "dani arnold",
+              "author_url": "https://www.google.com/maps/contrib/101641219490621345442/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKszJkEz5k-PALmgl1EMVPIMoOoTFsTHv-yhPKAylOTn2r_Mw=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "7 years ago",
+              "text": "",
+              "time": 1474833489,
+              "translated": false
+            }
+          ],
+          "num_reviews": 3,
+          "url": "https://maps.google.com/?cid=3629037012911482312",
+          "travel_time": "8 mins"
+        },
+        {
+          "place_id": "ChIJMxuDBAurmkcRW5sUhfBNSFU",
+          "name": "Tierschutzverein Zug",
+          "rating": 4.6,
+          "num_ratings": 59,
+          "vicinity": "Riedmatt, Allenwinden",
+          "location": {
+            "lat": 47.16631580000001,
+            "lng": 8.550430900000002
+          },
+          "reviews": [
+            {
+              "author_name": "veronica m",
+              "author_url": "https://www.google.com/maps/contrib/110919130410787697566/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvz4cpTl3OhHm41l9LDvElcS2BEjPhPLYg14y3GcpRkyd0Pg=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Extremely friendly and kind team.\nThe animals are treated very well and the entire place is kept extra clean. I worked here for work experience (as an intern / apprenticeship) for one week and will definitely return - loved working with everyone and the cats.",
+              "time": 1686345999,
+              "translated": false
+            },
+            {
+              "author_name": "Maya lena",
+              "author_url": "https://www.google.com/maps/contrib/101668124339798179731/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2pw7yH91XcbLYMgKaSsxg_4kBF-dxHYpFqq8TfU2fdZB49g=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "4 months ago",
+              "text": "very very competent and friendly staff!! the animals are treated really well here. Thank you so much for allowing us to adopt our treasure of gold from you\ud83d\udc97\ud83d\udc97",
+              "time": 1709047359,
+              "translated": true
+            },
+            {
+              "author_name": "Sonja Grossenbacher",
+              "author_url": "https://www.google.com/maps/contrib/104302494673741946144/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfDfk0wmrNPAk9gdzzzQ45bcT_y9ppDE5yCqVj0ZK2hIaeA3hw=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "5 months ago",
+              "text": "A big compliment to the team. I noticed that he was very friendly, competent and lovingly treated with the animals. Great, clean animal shelter, highly recommended.",
+              "time": 1707724610,
+              "translated": true
+            },
+            {
+              "author_name": "Max Power",
+              "author_url": "https://www.google.com/maps/contrib/117291845388512981982/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2IMNWUNhBrbMyjDoaBMMhlBo8yfUJpB4XXgFJ8qDkiOf0Hg=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "10 months ago",
+              "text": "Very professional and nice team, the animals are lovingly looked after, cared for and cared for, the adoption process is very good and, above all, honest. Great attention is paid to animal welfare. The animal shelter is super clean.",
+              "time": 1693518333,
+              "translated": true
+            },
+            {
+              "author_name": "M\u00fcller Niklaus",
+              "author_url": "https://www.google.com/maps/contrib/117057769727572905136/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUFgMOCRIlYE61tXs5k1jTjaluczso6-llnxCaauu9r1RI3g=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "Were just there and were able to visit the young cats. It was a very beautiful and impressive experience.\nI would have loved to take them all home with us, you can feel that the animals are doing very well there.\nThe employees also make an extremely friendly and qualified impression.\nWe therefore decided to adopt two from there as soon as the little ones were big enough.",
+              "time": 1598366261,
+              "translated": true
+            }
+          ],
+          "num_reviews": 5,
+          "url": "https://maps.google.com/?cid=6145247386967251803",
+          "travel_time": "10 mins"
+        }
+      ],
+      "count": 9,
+      "average_rating": 4.9,
+      "closest": {
+        "place_id": "ChIJ1foc-Z-rmkcRuPLgDHaci5s",
+        "name": "Elektrizit\u00e4ts-Genossenschaft",
+        "rating": "No rating available",
+        "num_ratings": "No ratings available",
+        "vicinity": "Winzr\u00fcti 1, Allenwinden",
+        "location": {
+          "lat": 47.1692979,
+          "lng": 8.553884199999999
+        },
+        "reviews": [],
+        "num_reviews": 0,
+        "url": "https://maps.google.com/?cid=11208224128477754040",
+        "travel_time": "4 mins"
+      }
+    },
+    "gas_ev_charging": {
+      "data": [
+        {
+          "place_id": "ChIJYWbWW3WrmkcR2BkfX6lryZY",
+          "name": "Myself AG",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Eggried 22, Allenwinden",
+          "location": {
+            "lat": 47.1684968,
+            "lng": 8.554431599999997
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=10865333951197551064",
+          "travel_time": "5 mins"
+        },
+        {
+          "place_id": "ChIJB2QotgqrmkcRBrqUSWo4CHo",
+          "name": "Triag AG",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Aussergr\u00fctstrasse 2, Allenwinden",
+          "location": {
+            "lat": 47.1677532,
+            "lng": 8.5526912
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=8793340301593065990",
+          "travel_time": "7 mins"
+        },
+        {
+          "place_id": "ChIJqwtwWXWrmkcReZXSM7fNiyY",
+          "name": "Wasserversorgungs Genossenschaft Allenwinden",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Eggried 24, Allenwinden",
+          "location": {
+            "lat": 47.1684968,
+            "lng": 8.554431599999997
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=2777539781936190841",
+          "travel_time": "5 mins"
+        },
+        {
+          "place_id": "ChIJdQpq2nSrmkcRZSO_vGJQaFc",
+          "name": "Alois Arnold AG",
+          "rating": 5,
+          "num_ratings": 4,
+          "vicinity": "Dorfstrasse 31, Allenwinden",
+          "location": {
+            "lat": 47.1660537,
+            "lng": 8.5535528
+          },
+          "reviews": [
+            {
+              "author_name": "Peter Z\u00fcllig",
+              "author_url": "https://www.google.com/maps/contrib/114920545484454410295/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzY42HqRXdlqhhSGio2EQ8LeGRFNSJjOcMmtNpeg5wdSYe2joH=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Due to a fire in the house, we were dependent on immediate support. Everything was done and supported in a friendly, helpful and courteous manner. A company with \u2764\ufe0f.",
+              "time": 1684999000,
+              "translated": true
+            },
+            {
+              "author_name": "Mark Gr\u00fcring",
+              "author_url": "https://www.google.com/maps/contrib/102183789300166936084/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB93Nu3OkcTIBM6K8VDRLFRsrDl4CbChmFjnTlQiVeAW4sAHw=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "6 years ago",
+              "text": "Your personal builder, on time, competent and very efficient",
+              "time": 1512824969,
+              "translated": true
+            },
+            {
+              "author_name": "Andreas L\u00fc\u00f6nd",
+              "author_url": "https://www.google.com/maps/contrib/100171556144390009997/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLojOA4gbdGO3eryhWYZkqbI9YFH1YNYqR8y6RS-qxMBWTlPw=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "",
+              "time": 1615932268,
+              "translated": false
+            },
+            {
+              "author_name": "Pit- Betonpumpen",
+              "author_url": "https://www.google.com/maps/contrib/116504409680694247158/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInMO0bb4wwXOyMkteP9EF_OHcsHMMGwb97geQbleWNqmyIxgg=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "",
+              "time": 1592835024,
+              "translated": false
+            }
+          ],
+          "num_reviews": 4,
+          "url": "https://maps.google.com/?cid=6298372463881298789",
+          "travel_time": "10 mins"
+        },
+        {
+          "place_id": "ChIJbYSWtnaqmkcRA1kvtWOEsr8",
+          "name": "Landtwing Verlag GmbH",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Aussergr\u00fctstrasse 2, Allenwinden",
+          "location": {
+            "lat": 47.1677532,
+            "lng": 8.5526912
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=13813248570875140355",
+          "travel_time": "7 mins"
+        },
+        {
+          "place_id": "ChIJCeP-xQqrmkcRFNzlZH3sg1k",
+          "name": "partychuchi",
+          "rating": 5,
+          "num_ratings": 5,
+          "vicinity": "Aussergr\u00fctstrasse 7, Allenwinden",
+          "location": {
+            "lat": 47.167407,
+            "lng": 8.552266
+          },
+          "reviews": [
+            {
+              "author_name": "Andrea Hotz",
+              "author_url": "https://www.google.com/maps/contrib/104999654993129011994/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrESlJO7AL8_ruy6dPL3i_DM_cjzyFFSdyBg1_BIq85AKyvY0J=s128-c0x00000000-cc-rp-mo-ba6",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Simply fantastic...likeable...tasty...thank you Barbara",
+              "time": 1667690251,
+              "translated": true
+            },
+            {
+              "author_name": "Friedemann Umrath",
+              "author_url": "https://www.google.com/maps/contrib/117186797314878975589/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_0RUsj8hrEpHJVjR3YP6rgy_EsLmO-hWiO7xoyv_Iclp5SsbN=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "2 years ago",
+              "text": "Motivated team great job",
+              "time": 1653139341,
+              "translated": true
+            },
+            {
+              "author_name": "Thomas Huber",
+              "author_url": "https://www.google.com/maps/contrib/113876525944120355870/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9Ww1kGga3AqyELBRG_z34aPjTGKKbSAUTQe2JGXfpz1FWMg=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "Best catering in central Switzerland",
+              "time": 1583619087,
+              "translated": true
+            },
+            {
+              "author_name": "Mario Merz",
+              "author_url": "https://www.google.com/maps/contrib/116264636141018215575/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj8ZnwHUjXt9OB06QReKG3QNwSr5bWPRMfdJ4x6o-ih4QAQgs=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "4 years ago",
+              "text": "Highly recommended!",
+              "time": 1582530970,
+              "translated": true
+            },
+            {
+              "author_name": "Roman Buergi",
+              "author_url": "https://www.google.com/maps/contrib/117912643187792847730/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgdk_edVQdo-0qndlIiCc3d2blEw0gU5zaiyeYdSgVP7oX_hsl=s128-c0x00000000-cc-rp-mo-ba3",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "",
+              "time": 1616760201,
+              "translated": false
+            }
+          ],
+          "num_reviews": 5,
+          "url": "https://maps.google.com/?cid=6450259114632535060",
+          "travel_time": "8 mins"
+        },
+        {
+          "place_id": "ChIJ1foc-Z-rmkcRuPLgDHaci5s",
+          "name": "Elektrizit\u00e4ts-Genossenschaft",
+          "rating": "No rating available",
+          "num_ratings": "No ratings available",
+          "vicinity": "Winzr\u00fcti 1, Allenwinden",
+          "location": {
+            "lat": 47.1692979,
+            "lng": 8.553884199999999
+          },
+          "reviews": [],
+          "num_reviews": 0,
+          "url": "https://maps.google.com/?cid=11208224128477754040",
+          "travel_time": "4 mins"
+        },
+        {
+          "place_id": "ChIJk-BKLXWrmkcRyGVVj-_tXDI",
+          "name": "Speck Schreinerei",
+          "rating": 5,
+          "num_ratings": 3,
+          "vicinity": "Dorfstrasse 37, Allenwinden",
+          "location": {
+            "lat": 47.1669134,
+            "lng": 8.553216400000002
+          },
+          "reviews": [
+            {
+              "author_name": "Gaby St\u00fcssi",
+              "author_url": "https://www.google.com/maps/contrib/115571451151743309535/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpDeSUccSPwSqU5vj_Py7hOWF0s6nwm0TBKZ0KhogCsAZYfV0Vow=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "2 years ago",
+              "text": "Super Service",
+              "time": 1631804232,
+              "translated": true
+            },
+            {
+              "author_name": "Marco Reichmuth",
+              "author_url": "https://www.google.com/maps/contrib/101929044489156925560/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFIjYEdAIZ5LiWvLXBJUrEnAJU6hAkHg5l-paPUlWejB7d3F2H=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "6 months ago",
+              "text": "",
+              "time": 1704805960,
+              "translated": false
+            },
+            {
+              "author_name": "dani arnold",
+              "author_url": "https://www.google.com/maps/contrib/101641219490621345442/reviews",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKszJkEz5k-PALmgl1EMVPIMoOoTFsTHv-yhPKAylOTn2r_Mw=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "7 years ago",
+              "text": "",
+              "time": 1474833489,
+              "translated": false
+            }
+          ],
+          "num_reviews": 3,
+          "url": "https://maps.google.com/?cid=3629037012911482312",
+          "travel_time": "8 mins"
+        },
+        {
+          "place_id": "ChIJMxuDBAurmkcRW5sUhfBNSFU",
+          "name": "Tierschutzverein Zug",
+          "rating": 4.6,
+          "num_ratings": 59,
+          "vicinity": "Riedmatt, Allenwinden",
+          "location": {
+            "lat": 47.16631580000001,
+            "lng": 8.550430900000002
+          },
+          "reviews": [
+            {
+              "author_name": "veronica m",
+              "author_url": "https://www.google.com/maps/contrib/110919130410787697566/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvz4cpTl3OhHm41l9LDvElcS2BEjPhPLYg14y3GcpRkyd0Pg=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "a year ago",
+              "text": "Extremely friendly and kind team.\nThe animals are treated very well and the entire place is kept extra clean. I worked here for work experience (as an intern / apprenticeship) for one week and will definitely return - loved working with everyone and the cats.",
+              "time": 1686345999,
+              "translated": false
+            },
+            {
+              "author_name": "Maya lena",
+              "author_url": "https://www.google.com/maps/contrib/101668124339798179731/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2pw7yH91XcbLYMgKaSsxg_4kBF-dxHYpFqq8TfU2fdZB49g=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "4 months ago",
+              "text": "very very competent and friendly staff!! the animals are treated really well here. Thank you so much for allowing us to adopt our treasure of gold from you\ud83d\udc97\ud83d\udc97",
+              "time": 1709047359,
+              "translated": true
+            },
+            {
+              "author_name": "Sonja Grossenbacher",
+              "author_url": "https://www.google.com/maps/contrib/104302494673741946144/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfDfk0wmrNPAk9gdzzzQ45bcT_y9ppDE5yCqVj0ZK2hIaeA3hw=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "5 months ago",
+              "text": "A big compliment to the team. I noticed that he was very friendly, competent and lovingly treated with the animals. Great, clean animal shelter, highly recommended.",
+              "time": 1707724610,
+              "translated": true
+            },
+            {
+              "author_name": "Max Power",
+              "author_url": "https://www.google.com/maps/contrib/117291845388512981982/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2IMNWUNhBrbMyjDoaBMMhlBo8yfUJpB4XXgFJ8qDkiOf0Hg=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "10 months ago",
+              "text": "Very professional and nice team, the animals are lovingly looked after, cared for and cared for, the adoption process is very good and, above all, honest. Great attention is paid to animal welfare. The animal shelter is super clean.",
+              "time": 1693518333,
+              "translated": true
+            },
+            {
+              "author_name": "M\u00fcller Niklaus",
+              "author_url": "https://www.google.com/maps/contrib/117057769727572905136/reviews",
+              "language": "en-US",
+              "original_language": "de",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUFgMOCRIlYE61tXs5k1jTjaluczso6-llnxCaauu9r1RI3g=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "3 years ago",
+              "text": "Were just there and were able to visit the young cats. It was a very beautiful and impressive experience.\nI would have loved to take them all home with us, you can feel that the animals are doing very well there.\nThe employees also make an extremely friendly and qualified impression.\nWe therefore decided to adopt two from there as soon as the little ones were big enough.",
+              "time": 1598366261,
+              "translated": true
+            }
+          ],
+          "num_reviews": 5,
+          "url": "https://maps.google.com/?cid=6145247386967251803",
+          "travel_time": "10 mins"
+        }
+      ],
+      "count": 9,
+      "average_rating": 4.9,
+      "closest": {
+        "place_id": "ChIJ1foc-Z-rmkcRuPLgDHaci5s",
+        "name": "Elektrizit\u00e4ts-Genossenschaft",
+        "rating": "No rating available",
+        "num_ratings": "No ratings available",
+        "vicinity": "Winzr\u00fcti 1, Allenwinden",
+        "location": {
+          "lat": 47.1692979,
+          "lng": 8.553884199999999
+        },
+        "reviews": [],
+        "num_reviews": 0,
+        "url": "https://maps.google.com/?cid=11208224128477754040",
+        "travel_time": "4 mins"
+      }
+    },
+    "schools": {
+      "data": [],
+      "count": 0,
+      "average_rating": null
+    }
+  },
+  "isochrone": {
+    "type": "FeatureCollection",
+    "bbox": [
+      8.543157,
+      47.161588,
+      8.557807,
+      47.179032
+    ],
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "group_index": 0,
+          "value": 180.0,
+          "center": [
+            8.555137254679531,
+            47.17127486249264
+          ]
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                8.554481,
+                47.169249
+              ],
+              [
+                8.555067,
+                47.169338
+              ],
+              [
+                8.556799,
+                47.170786
+              ],
+              [
+                8.5567,
+                47.171133
+              ],
+              [
+                8.555208,
+                47.172086
+              ],
+              [
+                8.554218,
+                47.169496
+              ],
+              [
+                8.554481,
+                47.169249
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "group_index": 0,
+          "value": 300.0,
+          "center": [
+            8.555137254679531,
+            47.17127486249264
+          ]
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                8.553279,
+                47.169569
+              ],
+              [
+                8.552968,
+                47.168306
+              ],
+              [
+                8.553289,
+                47.168144
+              ],
+              [
+                8.55448,
+                47.168096
+              ],
+              [
+                8.554829,
+                47.168185
+              ],
+              [
+                8.557317,
+                47.171181
+              ],
+              [
+                8.557513,
+                47.171453
+              ],
+              [
+                8.557073,
+                47.172302
+              ],
+              [
+                8.556266,
+                47.173375
+              ],
+              [
+                8.55592,
+                47.173474
+              ],
+              [
+                8.553412,
+                47.16989
+              ],
+              [
+                8.553347,
+                47.169787
+              ],
+              [
+                8.553279,
+                47.169569
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "group_index": 0,
+          "value": 420.0,
+          "center": [
+            8.555137254679531,
+            47.17127486249264
+          ]
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                8.551762,
+                47.167165
+              ],
+              [
+                8.553249,
+                47.166806
+              ],
+              [
+                8.55386,
+                47.166948
+              ],
+              [
+                8.555194,
+                47.16776
+              ],
+              [
+                8.557513,
+                47.171453
+              ],
+              [
+                8.557405,
+                47.173649
+              ],
+              [
+                8.557097,
+                47.173835
+              ],
+              [
+                8.556182,
+                47.174261
+              ],
+              [
+                8.553856,
+                47.171027
+              ],
+              [
+                8.551652,
+                47.167508
+              ],
+              [
+                8.551762,
+                47.167165
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "group_index": 0,
+          "value": 600.0,
+          "center": [
+            8.555137254679531,
+            47.17127486249264
+          ]
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                8.548604,
+                47.167278
+              ],
+              [
+                8.548687,
+                47.166351
+              ],
+              [
+                8.548855,
+                47.166032
+              ],
+              [
+                8.554256,
+                47.164556
+              ],
+              [
+                8.556093,
+                47.165573
+              ],
+              [
+                8.556246,
+                47.165898
+              ],
+              [
+                8.557513,
+                47.171453
+              ],
+              [
+                8.557807,
+                47.174556
+              ],
+              [
+                8.557695,
+                47.175378
+              ],
+              [
+                8.557556,
+                47.175817
+              ],
+              [
+                8.555486,
+                47.176385
+              ],
+              [
+                8.552429,
+                47.172966
+              ],
+              [
+                8.551949,
+                47.171981
+              ],
+              [
+                8.548651,
+                47.167634
+              ],
+              [
+                8.548604,
+                47.167278
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "group_index": 0,
+          "value": 780.0,
+          "center": [
+            8.555137254679531,
+            47.17127486249264
+          ]
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                8.545457,
+                47.168113
+              ],
+              [
+                8.546487,
+                47.165028
+              ],
+              [
+                8.546577,
+                47.164907
+              ],
+              [
+                8.550443,
+                47.164534
+              ],
+              [
+                8.552342,
+                47.162983
+              ],
+              [
+                8.552692,
+                47.162898
+              ],
+              [
+                8.557195,
+                47.163216
+              ],
+              [
+                8.55729,
+                47.16353
+              ],
+              [
+                8.557385,
+                47.163843
+              ],
+              [
+                8.557401,
+                47.163984
+              ],
+              [
+                8.557387,
+                47.164391
+              ],
+              [
+                8.557367,
+                47.164464
+              ],
+              [
+                8.557255,
+                47.164855
+              ],
+              [
+                8.557019,
+                47.16518
+              ],
+              [
+                8.555692,
+                47.169149
+              ],
+              [
+                8.557224,
+                47.171226
+              ],
+              [
+                8.557388,
+                47.171346
+              ],
+              [
+                8.557513,
+                47.171453
+              ],
+              [
+                8.557807,
+                47.174556
+              ],
+              [
+                8.557574,
+                47.17718
+              ],
+              [
+                8.557545,
+                47.177495
+              ],
+              [
+                8.554772,
+                47.177909
+              ],
+              [
+                8.550404,
+                47.174568
+              ],
+              [
+                8.550116,
+                47.174352
+              ],
+              [
+                8.549428,
+                47.171316
+              ],
+              [
+                8.546723,
+                47.169238
+              ],
+              [
+                8.545496,
+                47.168471
+              ],
+              [
+                8.545457,
+                47.168113
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "group_index": 0,
+          "value": 900.0,
+          "center": [
+            8.555137254679531,
+            47.17127486249264
+          ]
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                8.54321,
+                47.167762
+              ],
+              [
+                8.546578,
+                47.164906
+              ],
+              [
+                8.548636,
+                47.163897
+              ],
+              [
+                8.552476,
+                47.161592
+              ],
+              [
+                8.552836,
+                47.161588
+              ],
+              [
+                8.556911,
+                47.16228
+              ],
+              [
+                8.557231,
+                47.162447
+              ],
+              [
+                8.557401,
+                47.163984
+              ],
+              [
+                8.557387,
+                47.164391
+              ],
+              [
+                8.557367,
+                47.164464
+              ],
+              [
+                8.557255,
+                47.164855
+              ],
+              [
+                8.557019,
+                47.16518
+              ],
+              [
+                8.555692,
+                47.169149
+              ],
+              [
+                8.557224,
+                47.171226
+              ],
+              [
+                8.557388,
+                47.171346
+              ],
+              [
+                8.557513,
+                47.171453
+              ],
+              [
+                8.557807,
+                47.174556
+              ],
+              [
+                8.557574,
+                47.17718
+              ],
+              [
+                8.557545,
+                47.177495
+              ],
+              [
+                8.553509,
+                47.179032
+              ],
+              [
+                8.553243,
+                47.17879
+              ],
+              [
+                8.549981,
+                47.175939
+              ],
+              [
+                8.549968,
+                47.175579
+              ],
+              [
+                8.549924,
+                47.174516
+              ],
+              [
+                8.547928,
+                47.170371
+              ],
+              [
+                8.544994,
+                47.169789
+              ],
+              [
+                8.543157,
+                47.168118
+              ],
+              [
+                8.54321,
+                47.167762
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      }
+    ],
+    "metadata": {
+      "attribution": "openrouteservice.org | OpenStreetMap contributors",
+      "service": "isochrones",
+      "timestamp": 1721121819531,
+      "query": {
+        "profile": "foot-walking",
+        "locations": [
+          [
+            8.554959,
+            47.171282
+          ]
+        ],
+        "range": [
+          180.0,
+          300.0,
+          420.0,
+          600.0,
+          780.0,
+          900.0
+        ],
+        "range_type": "time"
+      },
+      "engine": {
+        "version": "8.1.0",
+        "build_date": "2024-06-05T10:07:23Z",
+        "graph_date": "2024-07-10T12:45:02Z"
+      }
+    }
+  },
+  "population": {
+    "total_pop": 1026,
+    "Radius_meters": 750,
+    "STATPOP_squares": [
+      {
+        "B22BTOT": 9,
+        "E_wgs84": 47.16928467085554,
+        "N_wgs84": 8.545942910753407
+      },
+      {
+        "B22BTOT": 3,
+        "E_wgs84": 47.16927197133001,
+        "N_wgs84": 8.547261751717313
+      },
+      {
+        "B22BTOT": 5,
+        "E_wgs84": 47.1755676709835,
+        "N_wgs84": 8.547392200895361
+      },
+      {
+        "B22BTOT": 8,
+        "E_wgs84": 47.17645433949915,
+        "N_wgs84": 8.54872985679119
+      },
+      {
+        "B22BTOT": 3,
+        "E_wgs84": 47.17104529837913,
+        "N_wgs84": 8.549936788532646
+      },
+      {
+        "B22BTOT": 9,
+        "E_wgs84": 47.17464283894421,
+        "N_wgs84": 8.550011509626675
+      },
+      {
+        "B22BTOT": 4,
+        "E_wgs84": 47.17554222358397,
+        "N_wgs84": 8.550030191473592
+      },
+      {
+        "B22BTOT": 4,
+        "E_wgs84": 47.16563623747758,
+        "N_wgs84": 8.551143476139714
+      },
+      {
+        "B22BTOT": 3,
+        "E_wgs84": 47.16653562390356,
+        "N_wgs84": 8.551162173869997
+      },
+      {
+        "B22BTOT": 5,
+        "E_wgs84": 47.16743501013066,
+        "N_wgs84": 8.551180872230098
+      },
+      {
+        "B22BTOT": 4,
+        "E_wgs84": 47.17552947719006,
+        "N_wgs84": 8.551349185818925
+      },
+      {
+        "B22BTOT": 8,
+        "E_wgs84": 47.16562347829104,
+        "N_wgs84": 8.552462225881113
+      },
+      {
+        "B22BTOT": 33,
+        "E_wgs84": 47.16742225051932,
+        "N_wgs84": 8.552499666323637
+      },
+      {
+        "B22BTOT": 22,
+        "E_wgs84": 47.16471131777833,
+        "N_wgs84": 8.553762233541619
+      },
+      {
+        "B22BTOT": 19,
+        "E_wgs84": 47.16561070397789,
+        "N_wgs84": 8.553780974991978
+      },
+      {
+        "B22BTOT": 73,
+        "E_wgs84": 47.16651008997882,
+        "N_wgs84": 8.55379971707362
+      },
+      {
+        "B22BTOT": 32,
+        "E_wgs84": 47.167409475780836,
+        "N_wgs84": 8.553818459786571
+      },
+      {
+        "B22BTOT": 110,
+        "E_wgs84": 47.16830886138382,
+        "N_wgs84": 8.553837203130875
+      },
+      {
+        "B22BTOT": 50,
+        "E_wgs84": 47.16920824678747,
+        "N_wgs84": 8.55385594710656
+      },
+      {
+        "B22BTOT": 29,
+        "E_wgs84": 47.170107631991606,
+        "N_wgs84": 8.553874691713675
+      },
+      {
+        "B22BTOT": 8,
+        "E_wgs84": 47.17370517080846,
+        "N_wgs84": 8.553949676457089
+      },
+      {
+        "B22BTOT": 3,
+        "E_wgs84": 47.17460455501165,
+        "N_wgs84": 8.55396842422186
+      },
+      {
+        "B22BTOT": 88,
+        "E_wgs84": 47.164698528551426,
+        "N_wgs84": 8.555080959846332
+      },
+      {
+        "B22BTOT": 81,
+        "E_wgs84": 47.16559791453809,
+        "N_wgs84": 8.555099723471569
+      },
+      {
+        "B22BTOT": 55,
+        "E_wgs84": 47.16649730032614,
+        "N_wgs84": 8.555118487728832
+      },
+      {
+        "B22BTOT": 3,
+        "E_wgs84": 47.16739668591524,
+        "N_wgs84": 8.555137252618156
+      },
+      {
+        "B22BTOT": 52,
+        "E_wgs84": 47.16829607130531,
+        "N_wgs84": 8.555156018139575
+      },
+      {
+        "B22BTOT": 97,
+        "E_wgs84": 47.16919545649603,
+        "N_wgs84": 8.555174784293127
+      },
+      {
+        "B22BTOT": 17,
+        "E_wgs84": 47.17009484148722,
+        "N_wgs84": 8.555193551078853
+      },
+      {
+        "B22BTOT": 67,
+        "E_wgs84": 47.17099422627869,
+        "N_wgs84": 8.555212318496782
+      },
+      {
+        "B22BTOT": 64,
+        "E_wgs84": 47.17189361087015,
+        "N_wgs84": 8.555231086546957
+      },
+      {
+        "B22BTOT": 4,
+        "E_wgs84": 47.16468572419823,
+        "N_wgs84": 8.556399685519054
+      },
+      {
+        "B22BTOT": 3,
+        "E_wgs84": 47.16558510997173,
+        "N_wgs84": 8.556418471319136
+      },
+      {
+        "B22BTOT": 14,
+        "E_wgs84": 47.170981420433264,
+        "N_wgs84": 8.556531199409074
+      },
+      {
+        "B22BTOT": 13,
+        "E_wgs84": 47.171880804811515,
+        "N_wgs84": 8.556549989639317
+      },
+      {
+        "B22BTOT": 3,
+        "E_wgs84": 47.16557229027874,
+        "N_wgs84": 8.557737218533926
+      },
+      {
+        "B22BTOT": 7,
+        "E_wgs84": 47.17096859945973,
+        "N_wgs84": 8.557850079688375
+      },
+      {
+        "B22BTOT": 3,
+        "E_wgs84": 47.16824475971777,
+        "N_wgs84": 8.56043127184557
+      },
+      {
+        "B22BTOT": 3,
+        "E_wgs84": 47.17361531360939,
+        "N_wgs84": 8.563182299761154
+      },
+      {
+        "B22BTOT": 4,
+        "E_wgs84": 47.170904267671006,
+        "N_wgs84": 8.564444471563862
+      },
+      {
+        "B22BTOT": 4,
+        "E_wgs84": 47.17270303365833,
+        "N_wgs84": 8.564482318821138
+      }
+    ]
+  },
+  "text_description": {
+    "Lex Fridman": {
+      "Style": "Lex Fridman",
+      "text": "Nestled in a vibrant neighborhood with approximately 1026 residents, the atmosphere of this area is bustling with activity and community engagement. With a diverse range of facilities within a 10-minute walk, including a variety of dining options, fitness centers, and essential services, the neighborhood offers convenience and a sense of connectedness. The presence of a well-equipped kindergarten and ample public transportation further enhances the family-friendly and accessible vibe of this lively community."
+    },
+    "Real estate agent": {
+      "Style": "Real estate agent",
+      "text": "In the vibrant neighborhood of Winzr\u00fcti 39, with approximately 1026 permanent residents, you'll find a bustling atmosphere with a variety of amenities within a 10-minute walk. From a cozy Gasthaus L\u00f6wen to numerous local businesses like gyms, grocery stores, and public transportation hubs just a short stroll away, convenience is at your doorstep. The neighborhood's focus on community is evident with a plethora of kindergartens and schools nearby, making it an ideal location for families looking for a lively yet family-friendly environment."
+    },
+    "neutral without emphasis": {
+      "Style": "neutral without emphasis",
+      "text": "The neighborhood exudes a calm and convenient ambiance with a variety of essential facilities within easy reach, such as restaurants, kindergarten, public transportation, gym/fitness centers, grocery stores/supermarkets, and gas/EV charging stations. The presence of these amenities contributes to the practicality and accessibility of the area for its approximately 1026 permanent residents. Despite the absence of bars and schools within the immediate vicinity, the neighborhood offers a balanced mix of services that cater to daily needs and routines."
+    }
+  }
+}
